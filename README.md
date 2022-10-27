@@ -1,6 +1,6 @@
 ## Prácticas de Introducción a HTML
 
-**Demo:** [https://github.com/felipejoq/practica-html-front-end-i](https://github.com/felipejoq/practica-html-front-end-i)
+**Demo:** [https://felipejoq.github.io/practica-html-front-end-i/](https://felipejoq.github.io/practica-html-front-end-i/)
 
 - Materia: Front-end I
 - Cursada: Certified Tech Developer
