@@ -2,16 +2,22 @@
 <html lang="es">
   <head>
     <meta charset="UTF-8" />
-    <title>Primer sitio HTML ¡BÁSICO!</title>
+    <title>Header Semántico y Navegación</title>
   </head>
   <body>
     <header>
       <img src="./img/logo.jpg" alt="Logo Front End 1" />
       <nav>
         <ul style="list-style: none">
-          <li><a href="#">Recetas Dulces</a></li>
-          <li><a href="#">Recetas Saladas</a></li>
-          <li><a href="#">Contacto</a></li>
+          <li><a href="./index.html">Inicio</a></li>
+          <li><a href="./about-me.html">Sobre Mi</a></li>
+          <li>
+            <a
+              href="https://es.wikipedia.org/wiki/Front_end_y_back_end"
+              target="_blank"
+              >Sobre FrontEnd</a
+            >
+          </li>
         </ul>
       </nav>
       <hr />
@@ -19,6 +25,18 @@
 
     <main>
       <article>
+        <section>
+          <iframe
+            width="560"
+            height="315"
+            src="https://www.youtube.com/embed/84s4B2AVTEE"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+          ></iframe>
+        </section>
+
         <section>
           <picture>
             <img src="./img/lemon-pie-01.jpg" alt="Pie de Limón" />
